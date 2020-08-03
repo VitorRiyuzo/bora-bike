@@ -1,0 +1,103 @@
+{
+  "categorias": [
+    {
+      "titulo": "Mountain Bike",
+      "link": "https://www.youtube.com/channel/UCuNgEijOOC1TdZZQBoezFFA",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Dicas simples para ganhar no final da subida",
+        "url": "https://www.youtube.com/watch?v=aOcnwzcv9p8"
+      },
+      "videos": [
+        {
+          "titulo": "Você Gosta de Trilhas? Então precisar ver esse vídeo! :) Treino MTB com single, morro e estradão!",
+          "url": "https://www.youtube.com/watch?v=aBZy2tEHMeM"
+        },
+        {
+          "titulo": "Voltar a Pedalar. Método Simples, Rápido e Sem Sofrimento pra Pegar de Volta a Resistência e Forma",
+          "url": "https://www.youtube.com/watch?v=S5OjaEC8Tuc"
+        },
+        {
+          "titulo": "Bateu Fadiga e Cansaço no Meio do Pedal? Identifique a Causa para Resolver este Problema",
+          "url": "https://www.youtube.com/watch?v=ZG0cGGpZQx4"
+        },
+        {
+          "titulo": "Specialized Turbo Creo SL é a Bike do Futuro? O Próximo Nível em que as Bikes Elétricas vão chegar?",
+          "url": "https://www.youtube.com/watch?v=V691Z7EuG9U"
+        },
+        {
+          "titulo": "Suplementos e Nutrição Esportiva no Ciclismo. Low Carb, Jejum Intermitente – Respondendo Comentários",
+          "url": "https://www.youtube.com/watch?v=r1pMtWW10j4"
+        },
+        {
+          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+        },
+        {
+          "titulo": "Treino de Ritmo MTB - Participação Especial do Prof. Fabiano Ribeiro (Speedeiro na Trilha)",
+          "url": "https://www.youtube.com/watch?v=sGvHwe7-nE0"
+        },
+        {
+          "titulo": "Lavar a Bike em Casa: Método Simples, Rápido e Com o que Você tem em Casa",
+          "url": "https://www.youtube.com/watch?v=eoi8hYRxrCg"
+        }        
+      ]
+    },
+    {
+      "titulo": "Speed",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Pedalokos",
+        "url": "https://www.youtube.com/channel/UCkSSnxHNXSfLcXyac37nLzQ"
+      },
+      "videos": [
+        {
+          "titulo": "BICICLETA SPEED SOUL 1R1 2020 - PEDALOKOS!",
+          "url": "https://www.youtube.com/watch?v=GnBrKn2UaxM"
+        },
+        {
+          "titulo": "Bike Speed - Como escolher sua bicicleta speed",
+          "url": "https://www.youtube.com/watch?v=cTZi3QgZyHE"
+        },
+        {
+          "titulo": "Descida da Serra do Mar da Br 277 em Curitiba",
+          "url": "https://www.youtube.com/watch?v=lABODJb8Aqk"
+        },
+        {
+          "titulo": "Bicicleta Speed para Iniciantes. Bike de entrada para ciclismo. Kode Bikes Vitesse e Spirit",
+          "url": "https://www.youtube.com/watch?v=ZIz27IAq8Cg"
+        }, 
+        {
+          "titulo": "Bike de 4.7kg e novidades da Eurobike - Revista Ride Bike",
+          "url": "https://www.youtube.com/watch?v=DY5s2sRCgaE"
+        }
+      ]
+    },
+    {
+      "titulo": "Urbana",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Bike é Legal",
+        "url": "https://www.youtube.com/channel/UCCoNynlfx6ECzJ-f4d_447Q"
+      },
+      "videos": [
+        {
+          "titulo": "TESTE CALOI URBAM - BIKE DE MENOS R$ 1 MIL PARA CIDADE",
+          "url": "https://www.youtube.com/watch?v=BH10i2Ek5p4"
+        },
+        {
+          "titulo": "MINHA BIKE PARA SER ÁGIL NA CIDADE",
+          "url": "https://www.youtube.com/watch?v=hf2cFJ3D5Z4"
+        },
+        {
+          "titulo": "Por que ter uma bike Urbana? - Specialized Sirrus",
+          "url": "https://www.youtube.com/watch?v=-1EcDA29Sr4"
+        },
+        {
+          "titulo": "COMO ESCOLHER UMA BIKE PARA USO URBANO - MEIO DE TRANSPORTE",
+          "url": "https://www.youtube.com/watch?v=X-beeRvry_8"
+        }
+      ]
+    }
+  ]
+}
