@@ -2,11 +2,29 @@
   "categorias": [
     {
       "id": 1,
-      "titulo": "Front End",
+      "titulo": "Mountain Bike",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Dicas simples para ganhar no final da subida",
+        "url": "https://www.youtube.com/watch?v=aOcnwzcv9p8"
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Speed",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Pedalokos",
+        "url": "https://www.youtube.com/channel/UCkSSnxHNXSfLcXyac37nLzQ"
+      }
+    },
+    {
+      "id":3,
+      "titulo": "Urbana",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Bike é Legal",
+        "url": "https://www.youtube.com/channel/UCCoNynlfx6ECzJ-f4d_447Q"
       }
     }
   ],
@@ -14,8 +32,104 @@
     {
       "id": 1,
       "categoriaId": 1,
-      "titulo": "SEO com React",
-      "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+      "titulo": "Você Gosta de Trilhas? Então precisar ver esse vídeo! :) Treino MTB com single, morro e estradão!",
+      "url": "https://www.youtube.com/watch?v=aBZy2tEHMeM"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Voltar a Pedalar. Método Simples, Rápido e Sem Sofrimento pra Pegar de Volta a Resistência e Forma",
+      "url": "https://www.youtube.com/watch?v=S5OjaEC8Tuc"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "Bateu Fadiga e Cansaço no Meio do Pedal? Identifique a Causa para Resolver este Problema",
+      "url": "https://www.youtube.com/watch?v=ZG0cGGpZQx4"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "Specialized Turbo Creo SL é a Bike do Futuro? O Próximo Nível em que as Bikes Elétricas vão chegar?",
+      "url": "https://www.youtube.com/watch?v=V691Z7EuG9U"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "Suplementos e Nutrição Esportiva no Ciclismo. Low Carb, Jejum Intermitente – Respondendo Comentários",
+      "url": "https://www.youtube.com/watch?v=r1pMtWW10j4"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "Diferença entre Mtb e Speed Iniciante. Qual escolher? Que bike eu compro?",
+      "url": "https://www.youtube.com/watch?v=dnaHoWZowWM"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "Treino de Ritmo MTB - Participação Especial do Prof. Fabiano Ribeiro (Speedeiro na Trilha)",
+      "url": "https://www.youtube.com/watch?v=sGvHwe7-nE0"
+    },
+    {
+      "id": 8,
+      "categoriaId": 1,
+      "titulo": "Lavar a Bike em Casa: Método Simples, Rápido e Com o que Você tem em Casa",
+      "url": "https://www.youtube.com/watch?v=eoi8hYRxrCg"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "BICICLETA SPEED SOUL 1R1 2020 - PEDALOKOS!",
+      "url": "https://www.youtube.com/watch?v=GnBrKn2UaxM"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "Bike Speed - Como escolher sua bicicleta speed",
+      "url": "https://www.youtube.com/watch?v=cTZi3QgZyHE"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "Descida da Serra do Mar da Br 277 em Curitiba",
+      "url": "https://www.youtube.com/watch?v=lABODJb8Aqk"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "Bicicleta Speed para Iniciantes. Bike de entrada para ciclismo. Kode Bikes Vitesse e Spirit",
+      "url": "https://www.youtube.com/watch?v=ZIz27IAq8Cg"
+    }, 
+    {
+      "id": 13,
+      "categoriaId": 2,
+      "titulo": "Bike de 4.7kg e novidades da Eurobike - Revista Ride Bike",
+      "url": "https://www.youtube.com/watch?v=DY5s2sRCgaE"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "TESTE CALOI URBAM - BIKE DE MENOS R$ 1 MIL PARA CIDADE",
+      "url": "https://www.youtube.com/watch?v=BH10i2Ek5p4"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "titulo": "MINHA BIKE PARA SER ÁGIL NA CIDADE",
+      "url": "https://www.youtube.com/watch?v=hf2cFJ3D5Z4"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "Por que ter uma bike Urbana? - Specialized Sirrus",
+      "url": "https://www.youtube.com/watch?v=-1EcDA29Sr4"
+    },
+    {
+      "id": 17,
+      "categoriaId": 3,
+      "titulo": "COMO ESCOLHER UMA BIKE PARA USO URBANO - MEIO DE TRANSPORTE",
+      "url": "https://www.youtube.com/watch?v=X-beeRvry_8"
     }
     
   ]
