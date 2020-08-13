@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/pedal-leve/static/css/main.adce4c00.chunk.css",
-    "main.js": "/pedal-leve/static/js/main.a5ecdf71.chunk.js",
-    "main.js.map": "/pedal-leve/static/js/main.a5ecdf71.chunk.js.map",
+    "main.js": "/pedal-leve/static/js/main.f36184f9.chunk.js",
+    "main.js.map": "/pedal-leve/static/js/main.f36184f9.chunk.js.map",
     "runtime-main.js": "/pedal-leve/static/js/runtime-main.f4cd758c.js",
     "runtime-main.js.map": "/pedal-leve/static/js/runtime-main.f4cd758c.js.map",
-    "static/js/2.67653875.chunk.js": "/pedal-leve/static/js/2.67653875.chunk.js",
-    "static/js/2.67653875.chunk.js.map": "/pedal-leve/static/js/2.67653875.chunk.js.map",
+    "static/js/2.d9d341fa.chunk.js": "/pedal-leve/static/js/2.d9d341fa.chunk.js",
+    "static/js/2.d9d341fa.chunk.js.map": "/pedal-leve/static/js/2.d9d341fa.chunk.js.map",
     "index.html": "/pedal-leve/index.html",
-    "precache-manifest.4c87e9a5ab7902495c5e880417d5a4e1.js": "/pedal-leve/precache-manifest.4c87e9a5ab7902495c5e880417d5a4e1.js",
+    "precache-manifest.0f244d82b089cfd0a4c0efe31d91478b.js": "/pedal-leve/precache-manifest.0f244d82b089cfd0a4c0efe31d91478b.js",
     "service-worker.js": "/pedal-leve/service-worker.js",
     "static/css/main.adce4c00.chunk.css.map": "/pedal-leve/static/css/main.adce4c00.chunk.css.map",
-    "static/js/2.67653875.chunk.js.LICENSE.txt": "/pedal-leve/static/js/2.67653875.chunk.js.LICENSE.txt",
+    "static/js/2.d9d341fa.chunk.js.LICENSE.txt": "/pedal-leve/static/js/2.d9d341fa.chunk.js.LICENSE.txt",
     "static/media/Logo.png": "/pedal-leve/static/media/Logo.49f65061.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f4cd758c.js",
-    "static/js/2.67653875.chunk.js",
+    "static/js/2.d9d341fa.chunk.js",
     "static/css/main.adce4c00.chunk.css",
-    "static/js/main.a5ecdf71.chunk.js"
+    "static/js/main.f36184f9.chunk.js"
   ]
 }
