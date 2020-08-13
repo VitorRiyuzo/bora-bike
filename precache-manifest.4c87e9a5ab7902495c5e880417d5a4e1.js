@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f956faa0815e77c3d5f169bd9c745c96",
+    "revision": "e75f785e12611b70e8bc69873160b67b",
     "url": "/pedal-leve/index.html"
   },
   {
-    "revision": "9459dbf0663e536c4588",
+    "revision": "99e5d7ae4d52f6c795da",
     "url": "/pedal-leve/static/css/main.adce4c00.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pedal-leve/static/js/2.67653875.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9459dbf0663e536c4588",
-    "url": "/pedal-leve/static/js/main.9228e490.chunk.js"
+    "revision": "99e5d7ae4d52f6c795da",
+    "url": "/pedal-leve/static/js/main.a5ecdf71.chunk.js"
   },
   {
     "revision": "dfca714577ea3a8b34c2",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/pedal-leve/static/css/main.adce4c00.chunk.css",
-    "main.js": "/pedal-leve/static/js/main.9228e490.chunk.js",
-    "main.js.map": "/pedal-leve/static/js/main.9228e490.chunk.js.map",
+    "main.js": "/pedal-leve/static/js/main.a5ecdf71.chunk.js",
+    "main.js.map": "/pedal-leve/static/js/main.a5ecdf71.chunk.js.map",
     "runtime-main.js": "/pedal-leve/static/js/runtime-main.f4cd758c.js",
     "runtime-main.js.map": "/pedal-leve/static/js/runtime-main.f4cd758c.js.map",
     "static/js/2.67653875.chunk.js": "/pedal-leve/static/js/2.67653875.chunk.js",
     "static/js/2.67653875.chunk.js.map": "/pedal-leve/static/js/2.67653875.chunk.js.map",
     "index.html": "/pedal-leve/index.html",
-    "precache-manifest.582ddb33adbbee53bc8207508c665e04.js": "/pedal-leve/precache-manifest.582ddb33adbbee53bc8207508c665e04.js",
+    "precache-manifest.4c87e9a5ab7902495c5e880417d5a4e1.js": "/pedal-leve/precache-manifest.4c87e9a5ab7902495c5e880417d5a4e1.js",
     "service-worker.js": "/pedal-leve/service-worker.js",
     "static/css/main.adce4c00.chunk.css.map": "/pedal-leve/static/css/main.adce4c00.chunk.css.map",
     "static/js/2.67653875.chunk.js.LICENSE.txt": "/pedal-leve/static/js/2.67653875.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.f4cd758c.js",
     "static/js/2.67653875.chunk.js",
     "static/css/main.adce4c00.chunk.css",
-    "static/js/main.9228e490.chunk.js"
+    "static/js/main.a5ecdf71.chunk.js"
   ]
 }
