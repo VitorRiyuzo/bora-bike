@@ -18,7 +18,23 @@ function getAll() {
       throw new Error('Não foi possível pegar os dados');
     })
 }
+function create(categoria) {
+  return fetch(`${ULR_CATEGORIES}`, {
+    method:'POST',
+    headers:{
+      'Content-type':'application/json'
+    },
+    body:JSON.stringify(categoria)
+  })
+  .then(async(response)=>{
+    if(response.ok){
+      return await response.json();
+    }
+    throw new Error('Não foi possível pegar os dados');
+  })
+}
 export default {
   getAllWithVideos,
-  getAll
+  getAll,
+  create
 }

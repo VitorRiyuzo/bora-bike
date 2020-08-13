@@ -1,7 +1,7 @@
 import config from '../config';
 const ULR_VIDEOS = `${config.URL_API}/videos`;
 function create(video) {
-  return fetch(`${ULR_VIDEOS}?_embed=videos`, {
+  return fetch(`${ULR_VIDEOS}`, {
     method:'POST',
     headers:{
       'Content-type':'application/json'

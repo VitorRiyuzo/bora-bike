@@ -19,7 +19,7 @@
       }
     },
     {
-      "id":3,
+      "id": 3,
       "titulo": "Urbana",
       "cor": "#9cd33b",
       "link_extra": {
@@ -100,7 +100,7 @@
       "categoriaId": 2,
       "titulo": "Bicicleta Speed para Iniciantes. Bike de entrada para ciclismo. Kode Bikes Vitesse e Spirit",
       "url": "https://www.youtube.com/watch?v=ZIz27IAq8Cg"
-    }, 
+    },
     {
       "id": 13,
       "categoriaId": 2,
@@ -131,6 +131,5 @@
       "titulo": "COMO ESCOLHER UMA BIKE PARA USO URBANO - MEIO DE TRANSPORTE",
       "url": "https://www.youtube.com/watch?v=X-beeRvry_8"
     }
-    
   ]
 }
